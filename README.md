@@ -1,0 +1,2 @@
+# FirstToUseGit
+just for learning
